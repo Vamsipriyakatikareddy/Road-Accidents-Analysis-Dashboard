@@ -32,6 +32,10 @@ Tools & Technologies
 - DAX (Data Analysis Expressions)
 - Excel for Data Preprocessing
 
+Dashboard Preview
+
+![Dashboard](Screenshotpreview.png)
+
 Key Insights
 - Most accidents occurred during evening peak hours.
 - "Dry" surface conditions and "Fine, no wind" weather still showed high accident rates — indicating driver behavior as a factor.
